@@ -1,0 +1,2 @@
+/Users/agata/Desktop/CodingProjects/SampleLibSVM/CMakeFiles/SampleLibSVM.dir
+/Users/agata/Desktop/CodingProjects/SampleLibSVM/CMakeFiles/libsvm_lib.dir

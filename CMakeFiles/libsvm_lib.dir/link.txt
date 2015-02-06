@@ -1,0 +1,2 @@
+/usr/bin/ar cq liblibsvm_lib.a  CMakeFiles/libsvm_lib.dir/src/libsvm-3.20/svm-predict.c.o CMakeFiles/libsvm_lib.dir/src/libsvm-3.20/svm-scale.c.o CMakeFiles/libsvm_lib.dir/src/libsvm-3.20/svm-train.c.o CMakeFiles/libsvm_lib.dir/src/libsvm-3.20/svm.cpp.o
+/usr/bin/ranlib liblibsvm_lib.a

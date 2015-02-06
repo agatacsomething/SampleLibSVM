@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SampleLibSVM@SampleLibSVM</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[Subprojects]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] SampleLibSVM/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] libsvm_lib/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] SampleLibSVM/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] SampleLibSVM/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] SampleLibSVM/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] SampleLibSVM/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] SampleLibSVM/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] libsvm_lib/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] libsvm_lib/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] libsvm_lib/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] libsvm_lib/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] libsvm_lib/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] SampleLibSVM/Source Files/SampleLibSVM.cpp</name>
+			<type>1</type>
+			<location>/Users/agata/Desktop/CodingProjects/SampleLibSVM/src/SampleLibSVM.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] libsvm_lib/Source Files/svm-predict.c</name>
+			<type>1</type>
+			<location>/Users/agata/Desktop/CodingProjects/SampleLibSVM/src/libsvm-3.20/svm-predict.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] libsvm_lib/Source Files/svm-scale.c</name>
+			<type>1</type>
+			<location>/Users/agata/Desktop/CodingProjects/SampleLibSVM/src/libsvm-3.20/svm-scale.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] libsvm_lib/Source Files/svm-train.c</name>
+			<type>1</type>
+			<location>/Users/agata/Desktop/CodingProjects/SampleLibSVM/src/libsvm-3.20/svm-train.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] libsvm_lib/Source Files/svm.cpp</name>
+			<type>1</type>
+			<location>/Users/agata/Desktop/CodingProjects/SampleLibSVM/src/libsvm-3.20/svm.cpp</location>
+		</link>
+	</linkedResources>
+</projectDescription>
